@@ -8,7 +8,7 @@ Links, cursussen, samenvattingen, oefeningen, voorbeelden etc...
 
 * Ik zal later "als ik tijd heb" ook een volledig uitgewerkt synth design schema met uitgewerkte componenten delen. Dit zal dan iets voor ooit zijn.
 
-* Heb je een sugestie voor missend materiaal of vragen stuur me dan een berichtje of pull een request. Ik doe dan mijn best om dit in orde te maken.
+* Heb je een sugestie voor missend materiaal of vragen stuur me dan een berichtje. Ik doe dan mijn best om dit in orde te maken.
 
 
 groetjes,
