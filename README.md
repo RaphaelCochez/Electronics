@@ -1,4 +1,4 @@
-# Electronics-2021-2022
+# Electronics
 # Raphael Cochez
 Links, cursussen, samenvattingen, oefeningen, voorbeelden etc... 
 
